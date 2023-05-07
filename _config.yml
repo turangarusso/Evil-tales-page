@@ -13,7 +13,7 @@ presskit_download_link                    :   # Enter a link to downloadable fil
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Don't miss a beat, download Highlights now!
+app_description                           : Look no further than Evil Tales, the ultimate horror story generator app!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,46 +35,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Epic Search Bar
-    description                           : Designed for instantly find match video for team or player name.
+  - title                                 : Library
+    description                           : Find old story.
     fontawesome_icon_name                 : search
     
   - title                                 : Gesture
-    description                           : Easy Filter with one tap for competitions.
+    description                           : Easy Read with one tap.
     fontawesome_icon_name                 : sort
-
-  - title                                 : Live Match
-    description                           : Watch Live Tv matches for free on Youtube.
-    fontawesome_icon_name                 : tv
-
-  - title                                 : Live Score
-    description                           : Check Live Score of all leagues.
-    fontawesome_icon_name                 : trophy
-
-  - title                                 : Scheduled mathes
-    description                           : Custom calendar with old and next scheduled matches.
-    fontawesome_icon_name                 : calendar
-
-  - title                                 : Highlights
-    description                           : Watch your favourite goals and best moments.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Stats
-    description                           : Show related Statistics of the match, standings and more.
-    fontawesome_icon_name                 : chart-pie
     
-  - title                                 : Social Links
-    description                           : Share your favourite goals.
+  - title                                 : Share  
+    description                           : Share your favourite story in pdf.
     fontawesome_icon_name                 : share
-    
-  - title                                 : Picture in Picture
-    description                           : Watch the highlights of the match while using other apps
-    fontawesome_icon_name                 : square
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
 
 
 # Theme Settings

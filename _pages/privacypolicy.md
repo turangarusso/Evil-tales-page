@@ -24,3 +24,5 @@ We do not identify the user, as compliant with GDPR.
 This app may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves exactly the same way as if the visitor had visited the other website.
 
 By using our app you accept our Terms and conditions and also external services like OpenAI and ChatGPT Terms and conditions.
+
+DMCA [Protection Certificate](https://www.dmca.com/r/r2jxzdk)
